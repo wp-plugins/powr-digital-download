@@ -24,7 +24,7 @@ First, download, install, and activate POWr Digital Download. Then drop the widg
 <br>
 = Free Features =
 * Sell videos, music, ebooks, documents, or any other file.
-* Flat 1% transaction fee charged on all payments.
+* Flat 1% transaction fee (plus standard PayPal fees).
 * Integrated online store, shopping cart, and checkout.
 * Create recurring payments for memberships and subscriptions.
 * Add product titles, descriptions and unlimited images.
