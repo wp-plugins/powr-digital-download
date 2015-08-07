@@ -2,7 +2,7 @@
 ===POWr Digital Download===
 Contributors: powr
 Donate link: http://powr.io/
-Tags: digital download, digital downloads, download, downloads, e-commerce, e-downloads, e-store, ecommerce, eshop, selling, online store, sell music, sell video, sell ebook, ebook, music, video, pdf, zip file, vendor, web store, custom, mobile responsive, customizable, code free, wysiwyg, drag and drop, commerce, small business, dynamic price, variable, dynamic, free, subscription, recur, recurrent, recurring
+Tags: digital download, digital downloads, download, downloads, e-commerce, e-downloads, e-store, ecommerce, eshop, selling, online store, sell music, sell video, sell ebook, ebook, music, video, pdf, zip file, vendor, web store, custom, mobile responsive, customizable, code free, wysiwyg, drag and drop, commerce, small business, dynamic price, variable, dynamic, free, subscription, recur, recurrent, recurring, credit card, debit card, credit, debit
 Requires at least: 3.0
 Tested up to: 4.2
 Stable tag: 1.4
@@ -23,12 +23,13 @@ First, download, install, and activate POWr Digital Download. Then drop the widg
 = <a href='http://www.powr.io/tutorials/how-to-add-digital-download-plugin-to-your-wordpress-site'>2 MINUTE INSTALL</a> =
 <br>
 = Free Features =
+* No added transaction fees.
 * Sell videos, music, ebooks, documents, or any other file.
-* Flat 1% transaction fee (plus standard PayPal fees).
+* Accept PayPal and Credit Cards.
 * Integrated online store, shopping cart, and checkout.
-* Create recurring payments for memberships and subscriptions.
-* Add product titles, descriptions and unlimited images.
-* Dynamic pricing for different options.
+* Create recurring payments.
+* Add product titles, descriptions and images.
+* Dynamic product and pricing options.
 * Price controls for shipping and tax.
 * Add discounts by flat rate, percentage, or promo code.
 * Safe and reliable payment processing through PayPal.
@@ -40,6 +41,15 @@ First, download, install, and activate POWr Digital Download. Then drop the widg
 * Language support for any language.
 <br>
 
+= Upgrade ($5.99)/mo and: =
+* Eliminate all POWr logos and watermarks
+* Unlimited products
+* Unlimited product images
+* Unlimited product options
+* Unlimited pricing options
+* Enable plugin analytics to measure visitors and page views
+* Receive premium POWr support
+* Support the development of other great plugins
 
 
 
@@ -118,4 +128,3 @@ Easily add POWr plugins right from the text editor.
 Improved functionality within the wp text editor.
 
 
-!
